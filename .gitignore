@@ -1,0 +1,5 @@
+gmon.out
+sleepsort
+sleepsort-debug
+src/obj/
+src/obj/debug/
